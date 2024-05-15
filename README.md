@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedabdelhamid0" alt="mohamedabdelhamid0" /></a> </p>
 
-- 🔭 I’m currently working on [Logic Circuit Solver Using C++](https://github.com/MohamedAbdelhamid0/LogicCircuitSolver)
-
-- 🌱 I’m currently learning **Computer Network Fundamentals, Cyber Security Courses, and OOP Using Java**
-
-- 💬 Ask me about **Projects I've Worked On**
+- 🌱 I’m currently learning **Computer Network Fundamentals, Cyber Security, and Software Engineering**
 
 - 📫 How to reach me **mohameddabdelhamid@gmail.com**
 
