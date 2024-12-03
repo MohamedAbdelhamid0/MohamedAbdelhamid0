@@ -1,27 +1,46 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A Computer Engineering Software Student</h3>
+<h2 align="left">Hi 👋! My name is Mohamed Ahmed and I'm a Computer Engineering Student from Egypt</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedabdelhamid0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedabdelhamid0" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedabdelhamid0" alt="mohamedabdelhamid0" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelhamid0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohamedAbdelhamid0&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-- 🌱 I’m currently learning **Computer Network Fundamentals, Cyber Security, and Software Engineering**
+###
 
-- 📫 How to reach me **mohameddabdelhamid@gmail.com**
+<img align="right" height="150" src="https://yt3.googleusercontent.com/tK_YgXJ0IZyOV1J3a8KRbmn6N5u61_g6EMxcgxBlrL5TkC8At9IZhPniWt4FL-jwSzc5-BfbbyQ=s160-c-k-c0x00ffffff-no-rj"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mohamedabdelhamid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedabdelhamid0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-ahmed-1942562b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-ahmed-1942562b5" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabdelhamid0&show_icons=true&locale=en&layout=compact" alt="mohamedabdelhamid0" /></p>
+<div align="left">
+  <a href="https:www.x.com/0xtkmo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelhamid0&show_icons=true&locale=en" alt="mohamedabdelhamid0" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelhamid0&" alt="mohamedabdelhamid0" /></p>
+<br clear="both">
+
+###
+
+<p align="left"></p>
+
+###
