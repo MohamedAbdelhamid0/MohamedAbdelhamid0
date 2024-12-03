@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mohameddabdelhamid@gmail.com**
 
-- ⚡ Fun fact **I love pizza 🍕**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mohamedabdelhamid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedabdelhamid0" height="30" width="40" /></a>
