@@ -7,11 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=MohamedAbdelhamid0&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://yt3.googleusercontent.com/tK_YgXJ0IZyOV1J3a8KRbmn6N5u61_g6EMxcgxBlrL5TkC8At9IZhPniWt4FL-jwSzc5-BfbbyQ=s160-c-k-c0x00ffffff-no-rj"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,4 +38,3 @@
 
 <p align="left"></p>
 
-###
