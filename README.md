@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Ahmed and I'm a Computer Engineering Student from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Ahmed and I'm a Computer Engineering Student in Ain Shams University</h2>
 
 ###
 
