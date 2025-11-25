@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Mohamed Ahmed, Computer Enginner at Ain Shams University</h2>
+<h2 align="left">Mohamed Ahmed, Computer Enginner at Ain Shams University</h2>
 
 ###
 
